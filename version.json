@@ -1,6 +1,6 @@
 {
   "versionCode": 7,
   "versionName": "1.0.7",
-  "apkUrlExample": "https://github.com/wave83/foodbib-releases/releases/download/1.0.7/com.redbeard.foodbib-Signed.apk",
+  "apkUrl": "https://github.com/wave83/foodbib-releases/releases/download/1.0.7/com.redbeard.foodbib-Signed.apk",
   "notes": "Suche, Pull-to-refresh, Update-Funktion"
 }
